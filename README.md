@@ -1,3 +1,3 @@
 # my_calculator
 
-A new Flutter project.
+A small calculator app for android.
